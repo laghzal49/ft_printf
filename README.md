@@ -69,7 +69,7 @@ Output:
 
 ```
 Hello world! Number: 42, Hex: 2a
-Printed 38 characters
+Printed 33 characters
 ```
 
 ---
