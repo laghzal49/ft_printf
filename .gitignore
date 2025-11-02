@@ -1,0 +1,18 @@
+# Object files
+*.o
+
+# Library files
+*.a
+
+# Executables
+test
+a.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# OS files
+.DS_Store
