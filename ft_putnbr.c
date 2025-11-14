@@ -5,7 +5,8 @@ int ft_putnbr(int n)
   int c;
 
   c = 0;
-  /* handling negative numbers */
+  if (n == -2147483648)
+    return (ft_putstr("-2147483648"));
   if (n < 0)
   {
     c += ft_putchar('-');
